@@ -24,7 +24,7 @@
 <img src="https://img.icons8.com/color-glass/48/000000/sql.png"/>
 <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/>
 <img src="https://img.icons8.com/color/50/000000/nodejs.png"/>
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-codesandbox-an-online-code-editor-and-sharing-web-application-projects-logo-shadow-tal-revivo.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codesandbox-an-online-code-editor-and-sharing-web-application-projects-logo-shadow-tal-revivo.png"/>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=sukhmanjeetkaur&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
