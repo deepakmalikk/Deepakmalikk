@@ -8,7 +8,7 @@
 
 ## I am a Developer, Programmer and a Learner
 
-- 🔭 I’m currently working on Automation Testing
+- 🔭 I’m currently learning full stack development
 - 👯 I’m looking to collaborate on interesting development projects
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: he/him
