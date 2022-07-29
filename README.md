@@ -34,6 +34,7 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakmalikk&theme=dark&show_icons=true&locale=en&layout=compact" alt="deepakmalikk"  />
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmalikk&theme=dark" alt="deepakmalikk" /></p>
 <!-- Links to my social media accounts 
-[![trophy](https://github-profile-trophy.vercel.app/?username=deepakmalikk)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=deepakmalikk&theme=dark")](https://github.com/ryo-ma/github-profile-trophy)
 
 
