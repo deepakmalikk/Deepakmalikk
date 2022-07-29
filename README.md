@@ -6,6 +6,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/deepakmalikk/Deepakmalikk/blob/main/deepak.svg?raw=true" width="400" height="300" />
 
+![views](https://komarev.com/ghpvc/?username=deepakmalikk)
+
 ## I am a Developer, Programmer and a Learner
 
 - 🔭 I’m currently learning full stack development
@@ -35,6 +37,6 @@
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmalikk&theme=dark" alt="deepakmalikk" /></p>
 <!-- Links to my social media accounts 
 
-[[[![trophy](https://github-profile-trophy.vercel.app/?username=deepakmalikk&theme=dark")](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)
+
 
 
