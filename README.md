@@ -4,13 +4,13 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-malik-64a5211b4/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:deepak164malik@gmail.com)
 
-<img align="right" alt="GIF" src="https://github.com/deepakmalikk/Deepakmalikk/blob/main/deepak.svg?raw=true" width="400" height="300" />
+<img align="right" alt="GIF" src="https://github.com/deepakmalikk/Deepakmalikk/blob/main/deepak.svg?raw=true" width="300" height="250" />
 
-![views](https://komarev.com/ghpvc/?username=deepakmalikk)
 
-## I am a Developer, Programmer, and a Learner
 
-- 🔭 I’m currently 
+**I am a Developer, Programmer, and a Learner**
+
+- 🔭 I’m Currently Upskilling in AI Technologies
 - 👯 I’m looking to collaborate on interesting development projects
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: he/him
