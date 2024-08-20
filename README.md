@@ -8,13 +8,13 @@
 
 ![views](https://komarev.com/ghpvc/?username=deepakmalikk)
 
-## I am a Developer, Programmer and a Learner
+## I am a Developer, Programmer, and a Learner
 
-- 🔭 I’m currently learning full stack development
+- 🔭 I’m currently 
 - 👯 I’m looking to collaborate on interesting development projects
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love travelling exploring new places, making friends, I speak 3 languages ( English, Hindi and Punjabi). 
+- ⚡ Fun fact: I love traveling and exploring new places, I speak 3 languages ( English, Hindi, and Punjabi). 
 
 #### :computer: Programming languages and tools:
 <p align="left"> 
@@ -31,7 +31,7 @@
 </p>
 
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmalikk&theme=dark" alt="deepakmalikk" /></p>
+
 <!-- Links to my social media accounts 
 
 
