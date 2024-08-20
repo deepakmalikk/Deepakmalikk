@@ -10,7 +10,7 @@
 
 **I am a Developer, Programmer, and a Learner**
 
-- 🔭 I’m Currently Upskilling in AI Technologies
+- 🔭 I’m currently upskilling in AI Technologies
 - 👯 I’m looking to collaborate on interesting development projects
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: he/him
