@@ -1,39 +1,48 @@
-### Hello World, I'm Deepak👋
+# Hello World, I'm Deepak Malik 👋  
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/deepakmalikk)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-malik-64a5211b4/)
-[![X](https://img.shields.io/badge/X-black)](https://x.com/malikdeepak09)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:deepak164malik@icloud.com)
-
-<img align="right" alt="GIF" src="https://github.com/deepakmalikk/Deepakmalikk/blob/main/deepak.svg?raw=true" width="300" height="250" />
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/deepak-malik-64a5211b4/)  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:deepak164malik@icloud.com)  [![Website](https://img.shields.io/badge/-Website-green?style=flat&logo=Vercel&logoColor=white)](https://deepakmalik.vercel.app/)  [![X](https://img.shields.io/badge/-X-black?style=flat&logo=Twitter&logoColor=white)](https://x.com/malikdeepak09)  
 
 
+---
 
-**I am a Developer, Programmer, and a Learner**
+## About Me 🌟  
 
-- 🔭 I’m currently upskilling in AI Technologies
-- 👯 I’m looking to collaborate on interesting development projects
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love traveling and exploring new places, I speak 3 languages ( English, Hindi, and Punjabi). 
+I am **Deepak Malik**, a passionate **Developer**, **Programmer**, and a dedicated **Learner** in the world of technology.  
 
-#### :computer: Programming languages and tools:
-<p align="left"> 
-<img src="https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png&color=000000"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v2.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/?size=48&id=jYQqxG8eyJ19&format=png&color=000000"/>
+- 🔭 **Currently:** Expanding my expertise in **AI Technologies**.  
+- 👯 **Collaboration:** Open to working on exciting development projects.  
+- 💬 **Ask Me About:** AI, Web Development, or Programming.  
+- 🌏 **Fun Fact:** I love traveling and exploring new cultures. I’m multilingual (English, Hindi, Punjabi).  
 
+---
 
+## My Expertise 🚀  
 
-</p>
+### **Languages and Tools I Work With:**  
+<p align="left">
+  <img src="https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png&color=000000" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v2.png" alt="HTML5" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/?size=48&id=jYQqxG8eyJ19&format=png&color=000000" alt="GitHub" title="GitHub"/>
+</p>  
 
+---
 
+## My Workspace 💻  
 
-<!-- Links to my social media accounts 
+- **Primary Device:** MacBook  
+- **Favorite IDEs:** CursorAI, VS Code  
 
+---
 
+## GitHub Stats 📊  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepakmalikk&show_icons=true&hide=issues&theme=radical" alt="Deepak Malik's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmalikk&theme=radical" alt="Deepak Malik's GitHub Streak" />
+</p>  
 
+---
 
+### ⚡ Let’s build something amazing together! 🚀  
