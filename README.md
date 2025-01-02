@@ -1,6 +1,9 @@
 # Hello World, I'm Deepak Malik 👋  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/deepak-malik-64a5211b4/)  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:deepak164malik@icloud.com)  [![Website](https://img.shields.io/badge/-Website-green?style=flat&logo=Vercel&logoColor=white)](https://deepakmalik.vercel.app/)  [![X](https://img.shields.io/badge/-X-black?style=flat&logo=Twitter&logoColor=white)](https://x.com/malikdeepak09)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/deepak-malik-64a5211b4/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:deepak164malik@icloud.com)  
+[![Website](https://img.shields.io/badge/-Website-green?style=flat&logo=Vercel&logoColor=white)](https://deepakmalik.vercel.app/)
+[![X](https://img.shields.io/badge/-X-black?style=flat&logo=Twitter&logoColor=white)](https://x.com/malikdeepak09)  
 
 
 ---
@@ -24,7 +27,7 @@ I am **Deepak Malik**, a passionate **Developer**, **Programmer**, and a dedicat
   <img src="https://img.icons8.com/color/48/000000/html-5--v2.png" alt="HTML5" title="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/?size=48&id=jYQqxG8eyJ19&format=png&color=000000" alt="GitHub" title="GitHub"/>
+  <img src="https://img.icons8.com/?size=48&id=jYQqxG8eyJ19&format=png&color=000000" alt="MYSQL" title="MYSQL"/>
 </p>  
 
 ---
@@ -39,9 +42,10 @@ I am **Deepak Malik**, a passionate **Developer**, **Programmer**, and a dedicat
 ## GitHub Stats 📊  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakmalikk&show_icons=true&hide=issues&theme=radical" alt="Deepak Malik's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmalikk&theme=radical" alt="Deepak Malik's GitHub Streak" />
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=deepakmalikk&show_icons=true&hide=issues&theme=tokyonight&hide_title=true&" alt="Deepak Malik's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmalikk&theme=tokyonight" alt="Deepak Malik's GitHub Streak" />
+</p>
+
 
 ---
 
