@@ -42,11 +42,9 @@ I am **Deepak Malik**, a passionate **Developer**, **Programmer**, and a dedicat
 ## GitHub Stats 📊  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakmalikk&show_icons=true&hide=issues&theme=tokyonight&hide_title=true&" alt="Deepak Malik's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmalikk&theme=tokyonight" alt="Deepak Malik's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepakmalikk&show_icons=true&hide=issues&theme=tokyonight&hide_title=true" alt="Deepak Malik's GitHub Stats" />
+  
 </p>
-
-
 ---
 
 ### ⚡ Let’s build something amazing together! 🚀  
