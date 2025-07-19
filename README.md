@@ -4,7 +4,7 @@
 
 # About Me 🌟  
 
-- 🔭 **Currently:** Expanding my expertise in _Full Stack Development__ and **AI Technologies**.  
+- 🔭 **Currently:** Expanding my expertise in _Full Stack Development_ and **AI Technologies**.  
 - 👯 **Collaboration:** Open to working on exciting development projects.  
 - 💬 **Ask Me About:** AI, Web Development, or Programming.  
 - 🌏 **Fun Fact:** I love traveling and exploring new cultures. I’m multilingual (English, Hindi, Punjabi).  
