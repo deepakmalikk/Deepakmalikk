@@ -20,6 +20,7 @@
    
 [![boazcstrike's GitHub stats](https://github-readme-stats-boazcstrike.vercel.app/api?username=deepakmalikk&count_private=true&show_icons=true&theme=dark&include_all_commits)](https://github.com/boazcstrike/github-readme-stats)
 <br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=deepakmalikk&theme=github_dark&hide_border=false)<br/>
 
 # ⚡ Let’s build something amazing together! 🚀  
